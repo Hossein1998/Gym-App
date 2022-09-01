@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Bachelor Project\\GymApp\\GymApp\\GymApp\\GymApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Bachelor Project\\GymApp\\GymApp\\GymApp\\GymApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bachelor Project\\GymApp\\GymApp\\GymApp\\GymApp.csproj",
+        "projectName": "GymApp",
+        "projectPath": "D:\\Bachelor Project\\GymApp\\GymApp\\GymApp\\GymApp.csproj",
+        "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
+        "outputPath": "D:\\Bachelor Project\\GymApp\\GymApp\\GymApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Refractored.Controls.CircleImageView": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "System.Net.Http.WinHttpHandler": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "runtime.native.System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1141 @@
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\GymApp.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\GymApp.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp.apk
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp-Signed.apk
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\Mono.Android.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\mscorlib.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Core.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Net.Http.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Numerics.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Numerics.Vectors.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Xml.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Data.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Transactions.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.IO.Compression.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Web.Services.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\Mono.Security.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\build.props
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\adb.props
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\resourcepaths.cache
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res.flag
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.apk
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\values\colors.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\values\strings.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\values\styles.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\cominfo.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\items.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login2.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberitem.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberlist.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\profile.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\signup.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\splash.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af3.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af4.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af6.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af9.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\back.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\backicon.png
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\e.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\f.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\g.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym3.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo2.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo6.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo16.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mybutton.xml
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\n.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\x.jpg
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\R.cs.flag
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\R.txt
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\uploadflags.txt
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\resolvedassemblies.hash
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\GymApp.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Java.Interop.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Android.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\mscorlib.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Newtonsoft.Json.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Refractored.Controls.CircleImageView.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Core.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Net.Http.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.Vectors.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Essentials.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\netstandard.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Data.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Transactions.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.Linq.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Security.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\GymApp.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\link.flag
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\netstandard.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Refractored.Controls.CircleImageView.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.csprojAssemblyReference.cache
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\machine.config
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\Hossein\Desktop\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+D:\GymApp\GymApp\GymApp\bin\Debug\GymApp.dll
+D:\GymApp\GymApp\GymApp\bin\Debug\GymApp.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp.apk
+D:\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp-Signed.apk
+D:\GymApp\GymApp\GymApp\bin\Debug\Mono.Android.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\mscorlib.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Core.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Net.Http.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Numerics.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Numerics.Vectors.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Xml.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Runtime.Serialization.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.ServiceModel.Internals.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Data.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Transactions.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.IO.Compression.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.ComponentModel.Composition.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Web.Services.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\System.Xml.Linq.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\Mono.Security.pdb
+D:\GymApp\GymApp\GymApp\bin\Debug\Xamarin.Essentials.dll.mdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\GymApp\GymApp\GymApp\obj\Debug\81\build.props
+D:\GymApp\GymApp\GymApp\obj\Debug\81\adb.props
+D:\GymApp\GymApp\GymApp\obj\Debug\81\libraryimports.cache.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\resourcepaths.cache
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res.flag
+D:\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.csproj.CoreCompileInputs.cache
+D:\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.apk
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\values\colors.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\values\strings.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\values\styles.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\cominfo.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\items.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login2.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberitem.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberlist.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\profile.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\signup.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\splash.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af3.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af4.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af6.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af9.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\back.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\backicon.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\e.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\f.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\g.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym3.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo2.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo6.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo16.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mybutton.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\n.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\x.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminchange.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\deleteicon.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminfood.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminpractice.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberfood.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberpractice.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\addmenu.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\search.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\searchresult.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\zx.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\aq.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ee.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\sds.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\aaa.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\cc.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\vv.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\zz.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\bv.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\xc.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\qq.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\nn.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\oo.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mm.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\food.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\food2.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\prac.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\rr.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ss.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ffg.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ww.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\eee.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\kk.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\tt.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\man.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\gyminfo.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gg.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\R.cs.flag
+D:\GymApp\GymApp\GymApp\obj\Debug\81\R.txt
+D:\GymApp\GymApp\GymApp\obj\Debug\81\uploadflags.txt
+D:\GymApp\GymApp\GymApp\obj\Debug\81\resolvedassemblies.hash
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\GymApp.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Java.Interop.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Android.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\mscorlib.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Newtonsoft.Json.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Refractored.Controls.CircleImageView.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Core.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Net.Http.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.Vectors.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Essentials.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\netstandard.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Data.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Transactions.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Web.Services.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.Linq.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Security.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\GymApp.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\mscorlib.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Core.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Data.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\linksrc\Xamarin.Essentials.dll.mdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\link.flag
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Java.Interop.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\netstandard.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Refractored.Controls.CircleImageView.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.pdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\coachinfo.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\nm.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gh.png
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\layout1.xml
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\pp.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mnb.jpg
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\machine.config
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CompileToDalvik.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+D:\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.csprojAssemblyReference.cache
+D:\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\build.props
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\adb.props
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res.flag
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\C5144C19E39D81C6.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\5D8D2FAE9F9DCF56.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\F4CBD97CA06C9A6A.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\7C4307EE8B6CA01A.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\380768279E6CBD22.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\E4DA6459F76CEE8A.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\A09E0B90E26CF3B2.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\C5144C19E39D81C6.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\5D8D2FAE9F9DCF56.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\F4CBD97CA06C9A6A.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\7C4307EE8B6CA01A.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\380768279E6CBD22.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\E4DA6459F76CEE8A.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\A09E0B90E26CF3B2.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\flata\compiled.flata
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\R.txt
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\R.cs.flag
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.csproj.CoreCompileInputs.cache
+D:\Usb\GymApp\GymApp\GymApp\bin\Debug\GymApp.dll
+D:\Usb\GymApp\GymApp\GymApp\bin\Debug\GymApp.pdb
+D:\Usb\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp.apk
+D:\Usb\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp.aab
+D:\Usb\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp-Signed.aab
+D:\Usb\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp-Signed.apk
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.apk
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\base.zip
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.aab
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.apks
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\values\colors.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\values\strings.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\values\styles.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\cominfo.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\items.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login2.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberitem.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberlist.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\profile.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\signup.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\splash.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af3.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af4.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af6.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af9.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\back.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\backicon.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\e.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\f.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\g.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym3.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo2.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo6.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo16.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mybutton.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\n.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\x.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminchange.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\deleteicon.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminfood.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminpractice.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberfood.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberpractice.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\addmenu.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\search.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\searchresult.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\zx.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\aq.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ee.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\sds.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\aaa.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\cc.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\vv.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\zz.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\bv.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\xc.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\qq.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\nn.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\oo.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mm.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\food.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\food2.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\prac.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\rr.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ss.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ffg.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ww.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\eee.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\kk.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\tt.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\man.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\gyminfo.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gg.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\coachinfo.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\nm.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gh.png
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\layout1.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\pp.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mnb.jpg
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\uploadflags.txt
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\resolvedassemblies.hash
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Java.Interop.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\netstandard.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Refractored.Controls.CircleImageView.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.DataSetExtensions.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.DataSetExtensions.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Drawing.Common.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Drawing.Common.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.pdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.arm64-v8a.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.armeabi-v7a.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86_64.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.arm64-v8a.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.armeabi-v7a.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86_64.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\AndroidManifest.xml
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\__environment__.txt
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\machine.config
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\mono.android.jar
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\static.flag
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\buildid.txt
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.arm64-v8a.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.armeabi-v7a.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86_64.s
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\compat\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\design\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\mediacompat\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\transition\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Admin2.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Admin3.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\AdminFood.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\AdminPractice.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\CoachInfo.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\ComInfo.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\GymInfo.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Login.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberAdapter.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberFood.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberList.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberPractice.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Profile.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Search.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\SearchResult.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\SignUp.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Splash.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64b227089827305775\CircleImageView.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\de\hdodenhof\circleimageview\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\packaged_resources
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\src\com\companyname\gymapp\R.java
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.arm64-v8a.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.arm64-v8a.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.armeabi-v7a.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.armeabi-v7a.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86_64.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86_64.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.arm64-v8a.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.armeabi-v7a.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86_64.o
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\x86\libxamarin-app.so
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\classes.dex
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CompileToDalvik.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ConvertCustomView.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ConvertLibraryResourcesCases.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ConvertResourcesCases.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+D:\Usb\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\bin\Debug\GymApp.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\bin\Debug\GymApp.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp.apk
+D:\Bachelor Project\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp.aab
+D:\Bachelor Project\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp-Signed.aab
+D:\Bachelor Project\GymApp\GymApp\GymApp\bin\Debug\com.companyname.GymApp-Signed.apk
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\build.props
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\adb.props
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res.flag
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\B959EBAD132DED4A.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\21C0881A6F2DA3DA.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\C21B4CD46C9CE6BB.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\4A939246479CDCCB.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\0ED7FD8F529CC1F3.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\D20AF1F13B9C925B.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\964E9E382E9C8F63.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\B959EBAD132DED4A.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\21C0881A6F2DA3DA.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\C21B4CD46C9CE6BB.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\4A939246479CDCCB.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\0ED7FD8F529CC1F3.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\D20AF1F13B9C925B.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\964E9E382E9C8F63.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\flata\compiled.flata
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\R.txt
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\R.cs.flag
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.csproj.CoreCompileInputs.cache
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\GymApp.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.apk
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\base.zip
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.aab
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\com.companyname.GymApp.apks
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\values\colors.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\values\strings.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\values\styles.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\cominfo.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\items.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\login2.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberitem.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberlist.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\profile.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\splash.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af3.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af4.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af6.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\af9.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\back.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\backicon.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\e.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\f.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\g.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gym3.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo2.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo6.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\logo16.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mybutton.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\n.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\x.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminchange.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\deleteicon.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminfood.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\adminpractice.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberfood.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\memberpractice.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\addmenu.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\search.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\searchresult.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\zx.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\aq.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ee.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\sds.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\aaa.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\cc.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\vv.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\zz.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\bv.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\xc.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\qq.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\nn.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\oo.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mm.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\food.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\food2.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\prac.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\rr.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ss.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ffg.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\ww.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\eee.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\kk.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\tt.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\man.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\gyminfo.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gg.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\coachinfo.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\nm.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\gh.png
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\layout1.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\pp.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\mnb.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\layout\signup.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\hh.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\res\drawable\hh2.jpg
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\uploadflags.txt
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\resolvedassemblies.hash
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\GymApp.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Java.Interop.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\netstandard.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Refractored.Controls.CircleImageView.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Buffers.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Core.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.DataSetExtensions.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.DataSetExtensions.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Data.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Drawing.Common.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Drawing.Common.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Net.Http.WinHttpHandler.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\System.Xml.pdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.arm64-v8a.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.armeabi-v7a.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86_64.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.arm64-v8a.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.armeabi-v7a.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86_64.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\AndroidManifest.xml
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\__environment__.txt
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\assets\machine.config
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\mono.android.jar
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\static.flag
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\buildid.txt
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.arm64-v8a.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.armeabi-v7a.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86_64.s
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\compat\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\design\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\mediacompat\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\transition\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Admin2.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Admin3.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\AdminFood.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\AdminPractice.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\CoachInfo.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\ComInfo.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\GymInfo.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Login.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberAdapter.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberFood.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberList.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\MemberPractice.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Profile.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Search.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\SearchResult.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\SignUp.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc648252da23382f3a92\Splash.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\crc64b227089827305775\CircleImageView.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\de\hdodenhof\circleimageview\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\packaged_resources
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\src\com\companyname\gymapp\R.java
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.arm64-v8a.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.arm64-v8a.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.armeabi-v7a.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.armeabi-v7a.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.jm.x86_64.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\typemap.mj.x86_64.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.arm64-v8a.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.armeabi-v7a.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\environment.x86_64.o
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\x86\libxamarin-app.so
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\android\bin\classes.dex
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_CompileToDalvik.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ConvertCustomView.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ConvertLibraryResourcesCases.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ConvertResourcesCases.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+D:\Bachelor Project\GymApp\GymApp\GymApp\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp

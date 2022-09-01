@@ -1,0 +1,261 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mnb"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/linearLayout2"
+        android:layout_margin="5dp">
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ttextVview1"
+            android:gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:id="@+id/linearLayout3"
+        android:layout_marginLeft="51dp"
+        android:background="#80ffffff">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout4"
+            android:layout_weight="2"
+            android:layout_marginRight="12.0dp"
+            android:weightSum="0">
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout5"
+            android:layout_weight="5">
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView2"
+                android:textColor="#37474F"
+                android:textSize="22dp"
+                android:text="وزن"
+                android:paddingRight="10dp"
+                android:gravity="right"
+                android:textStyle="bold"  />
+            <TextView
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:inputType="textPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/WeightEditText"
+              
+                android:gravity="center"
+                android:layout_margin="0dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+         android:layout_marginTop="5dp"
+          android:background="#80ffffff"
+        android:id="@+id/linearLayoutcolor"
+        android:layout_marginLeft="50dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout7"
+            android:layout_weight="2"
+            android:layout_marginRight="6dp"
+            android:weightSum="5">
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout8"
+            android:layout_weight="5">
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView2"
+                android:gravity="right"
+                android:paddingRight="10dp"
+                android:textColor="#37474F"
+                android:textSize="22dp"
+                android:text="قد"
+                android:textStyle="bold" />
+            <TextView
+                 android:textStyle="bold"
+                android:textSize="20dp"
+                android:inputType="textPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/HeightEditText"
+                android:gravity="center"
+                android:layout_margin="0dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+          android:background="#80ffffff"
+         android:layout_marginTop="5dp"
+        android:id="@+id/linearLayoutcolor2"
+        android:layout_marginLeft="50dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout10"
+            android:layout_weight="2"
+            android:layout_marginRight="6dp"
+            android:weightSum="5">
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout11"
+            
+            android:layout_weight="5">
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView2"
+                android:textColor="#37474F"
+                android:textSize="22dp"
+                android:text="سن"
+                android:paddingRight="10dp"
+                android:gravity="right"
+                android:textStyle="bold" />
+            <TextView
+                 android:textStyle="bold"
+                android:textSize="20dp"
+                android:inputType="textPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/PhonenumberEditText"
+                android:gravity="center"
+                android:layout_margin="0dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="5dp"
+        android:background="#80ffffff"
+        android:layout_marginLeft="50dp"
+        android:id="@+id/linearLayout12"
+       >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout13"
+            android:layout_weight="2"
+            android:layout_marginRight="6dp"
+            android:weightSum="5">
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView2"
+                 android:textColor="#37474F"
+
+                android:textSize="22dp"
+                android:text="سن"
+                android:paddingRight="10dp"
+                android:gravity="right"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout14"
+            android:layout_weight="5">
+            <TextView
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:inputType="textPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/TimeEditText"
+                android:gravity="center"
+                android:layout_margin="0dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:text="Practice Schedule"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:id="@+id/PracticeScheduleButton"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/mybutton"/>
+
+
+    <Button
+        android:text="Food Schedule"
+        android:layout_width="270dp"
+        android:layout_height="50dp"
+        android:id="@+id/FoodScheduleButton"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/mybutton"/>
+   
+    <ImageButton
+				android:layout_width="50dp"
+				android:layout_height="40dp"
+				android:background="@drawable/DeleteIcon"
+				android:id="@+id/imageButtonDelete"
+                android:layout_marginLeft="175dp"
+                android:layout_marginTop="50dp"/>
+
+
+</LinearLayout>
